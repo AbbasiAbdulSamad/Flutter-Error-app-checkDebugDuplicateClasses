@@ -1,5 +1,5 @@
 Solving this type of error while running the project in flutter is explained in the video 
-Video Link : 
+Video Link : https://youtu.be/Zhoa-BhGm3o?si=QmMDOcJpcWO8RErf
 
 
 
