@@ -3,7 +3,7 @@ Video Link :
 
 
 
-Error Type 👇👇👇
+Error of this Type 👇👇👇
 -----------------------------------------------------------------------------
 What went wrong:
 Execution failed for task ':app:checkDebugDuplicateClasses'.
